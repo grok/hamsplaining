@@ -1,5 +1,9 @@
 # sterlinghamilton
 
+## Definition of hamsplaining
+
+When Sterling Hamilton starts explaining things to you and gives you disappointed dad vibes. 
+
 ## Build Setup
 
 ```bash
