@@ -1,4 +1,4 @@
-# sterlinghamilton
+# hamsplaining
 
 ## Definition of hamsplaining
 

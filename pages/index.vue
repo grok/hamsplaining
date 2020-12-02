@@ -2,6 +2,7 @@
   <div class="container">
     <div>
       <Logo />
+      <!-- <nuxt-content :document="page" /> -->
       <h1 class="title">sterlinghamilton</h1>
       <div class="links">
         <a
@@ -26,7 +27,16 @@
 </template>
 
 <script>
-export default {}
+// Example of content loading.
+export default {
+  async asyncData({ $content }) {
+    const page = await $content('hello').fetch()
+
+    return {
+      page,
+    }
+  },
+}
 </script>
 
 <style>
@@ -50,7 +60,7 @@ export default {}
   display: block;
   font-weight: 300;
   font-size: 100px;
-  color: #35495e;
+  color: #222;
   letter-spacing: 1px;
 }
 
