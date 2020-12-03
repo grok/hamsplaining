@@ -14,7 +14,7 @@ The whole concept of this is rooted in satire. Primarily poking fun at the fact 
 
 > The explanation of something by Sterling Hamilton, typically to anyone regardless of gender, in a manner regarded as condescending or patronizing. - Jill (probably)
 
-> When Sterling Hamilton starts explaining things to you and gives you disappointed dad vibes.  - @nitishn
+> When Sterling Hamilton starts explaining things to you and gives you disappointed dad vibes.  - [@nitishn](https://github.com/nitishn)
 
 ## Build Setup
 
