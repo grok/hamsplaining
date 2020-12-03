@@ -14,6 +14,8 @@ The whole concept of this is rooted in satire. Primarily poking fun at the fact 
 
 > When Sterling Hamilton starts explaining things to you and gives you disappointed dad vibes.  - [@nitishn](https://github.com/nitishn)
 
+> Just Sterling being Sterling. - Elena
+
 ## Build Setup
 
 ```bash
