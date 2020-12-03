@@ -6,8 +6,6 @@
 
 The whole concept of this is rooted in satire. Primarily poking fun at the fact that I often over-explain things when I shouldn't.
 
-!
-
 ## Definition of Hamsplain
 - *noun*
 - *gerund or present participle: hamsplaining*
