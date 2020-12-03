@@ -1,8 +1,14 @@
-# hamsplaining
+# Hamsplaining
 
-## Definition of hamsplaining
+The whole concept of this is rooted in satire. Primarily poking fun at the fact that I often over-explain things when I shouldn't.
 
-When Sterling Hamilton starts explaining things to you and gives you disappointed dad vibes. 
+## Definition of Hamsplain
+- *noun*
+- *gerund or present participle: hamsplaining*
+
+> The explanation of something by Sterling Hamilton, typically to anyone regardless of gender, in a manner regarded as condescending or patronizing. - Jill (probably)
+
+> When Sterling Hamilton starts explaining things to you and gives you disappointed dad vibes.  - Nitish
 
 ## Build Setup
 
@@ -20,5 +26,3 @@ $ yarn start
 # generate static project
 $ yarn generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
