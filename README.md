@@ -1,6 +1,12 @@
+<p align="center">
+  <img src="static/favicon.svg" title="Hamsplaining" />
+</p>
+
 # Hamsplaining
 
 The whole concept of this is rooted in satire. Primarily poking fun at the fact that I often over-explain things when I shouldn't.
+
+!
 
 ## Definition of Hamsplain
 - *noun*
