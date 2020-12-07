@@ -9,17 +9,26 @@ export default {
     ],
     link: [{ rel: 'icon', href: '/favicon.svg' }],
   },
-  static: {
-
-  },
-  css: [],
+  css: [
+    '@/assets/styles/normalize.min.css',
+    '@/assets/styles/typography.scss',
+  ],
   plugins: [],
   components: true,
   buildModules: [
     '@nuxtjs/eslint-module',
     '@nuxtjs/tailwindcss',
+    ['@nuxtjs/google-fonts', {
+      preconnect: true,
+      families: {
+        'Montserrat': true,
+        'Roboto': true,
+        'JetBrains+Mono': true,
+      }
+    }],
   ],
   modules: [
+    '@nuxtjs/moment',
     '@nuxt/content',
   ],
   content: {},

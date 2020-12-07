@@ -32,3 +32,7 @@ $ yarn start
 # generate static project
 $ yarn generate
 ```
+
+### Requirements
+
+* Node >= v15.2.1

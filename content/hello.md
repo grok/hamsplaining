@@ -1,6 +1,9 @@
 ---
-title: Getting started
+title: 'This is a rather long title about Stuff and Things: This is what happens when a developer is designing 😅'
 description: 'Empower your NuxtJS application with @nuxt/content module: write in a content/ directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS.'
+author: Sterling Hamilton
+taxonomy: Development
+keywords: this, is, a, test of sorts, you know
 ---
 
 Empower your NuxtJS application with `@nuxtjs/content` module: write in a `content/` directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a **Git-based Headless CMS**.
